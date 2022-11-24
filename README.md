@@ -1,4 +1,4 @@
-# Aplicação back-end para o sistema NGCash utilizando Node.js com TypeORM, integrados com um bando de dados Postgres
+# Aplicação back-end para o sistema NGCash utilizando Node.js com TypeORM, integrados com um banco de dados Postgres
 Passos para executar:
 
 1. Clone o repositório para uma pasta local
